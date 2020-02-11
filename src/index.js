@@ -1,4 +1,3 @@
-// index.js
 const benchmarker = (testFunction, times = 1000000) => {
   if (typeof testFunction !== 'function') {
     throw new Error('Did not provide a valid function for test.');
