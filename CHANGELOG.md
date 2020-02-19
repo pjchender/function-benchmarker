@@ -1,3 +1,10 @@
+## [1.0.5](https://github.com/pjchender/function-benchmarker/compare/v1.0.4...v1.0.5) (2020-02-19)
+
+
+### Bug Fixes
+
+* **doc:** add code coverage and other badges in README ([018aa6e](https://github.com/pjchender/function-benchmarker/commit/018aa6e90ec723ad13caaa172d6a7cf5fc9bcb97))
+
 ## [1.0.4](https://github.com/pjchender/function-benchmarker/compare/v1.0.3...v1.0.4) (2020-02-19)
 
 
