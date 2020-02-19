@@ -1,6 +1,6 @@
 {
   "name": "@pjchender/function-benchmarker",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A simple benchmark for testing function performance",
   "license": "MIT",
   "author": "PJCHENder <pjchender@gmail.com> (https://pjchender.blogspot.com)",

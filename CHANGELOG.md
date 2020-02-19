@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/pjchender/function-benchmarker/compare/v1.0.3...v1.0.4) (2020-02-19)
+
+
+### Bug Fixes
+
+* add coveralls and integrate with CI ([6df7f82](https://github.com/pjchender/function-benchmarker/commit/6df7f82e6fc6918ea0514f85c515dbd980fbc2da))
+
 ## [1.0.3](https://github.com/pjchender/function-benchmarker/compare/v1.0.2...v1.0.3) (2020-02-19)
 
 
