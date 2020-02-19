@@ -1,5 +1,9 @@
 # Function Benchmarker
 
+[![Build status](https://badgen.net/travis/pjchender/react-use-opentok)](https://travis-ci.com/pjchender/react-use-opentok)
+[![version](https://img.shields.io/npm/v/@pjchender/function-benchmarker.svg)](https://www.npmjs.com/package/@pjchender/function-benchmarker)
+[![Coverage Status](https://coveralls.io/repos/github/pjchender/function-benchmarker/badge.svg?branch=master)](https://coveralls.io/github/pjchender/function-benchmarker?branch=master)
+
 A simple benchmark for testing function performance. Through the package, you can compare the cost time of different functions.
 
 ## Guide
