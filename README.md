@@ -37,6 +37,10 @@ const costTime = benchmarker(functionToTest, [times]);
 $ npm test
 ```
 
+## Reference
+
+- [Measuring the Performance of JavaScript Functions](https://felixgerschau.com/measuring-the-performance-of-java-script-functions)
+
 ## LICENSE
 
 MIT
